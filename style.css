@@ -1,1 +1,43 @@
-
+p{
+  color: green;
+}
+p{
+  color: red;
+}
+ul{
+  color: blue;
+}
+ul{
+  color: purple;
+}
+ol{
+  color: pink;
+}
+ol{
+  color: orange;
+}
+h1{
+  color: brown;
+}
+h1{
+  color: black;
+}
+header{
+  color: amber;
+}
+header{
+  color: aqua;
+}
+body{
+  color: gray;
+}
+body{
+  color: violet;
+}
+footer{
+  color: bronze;
+}
+footer{
+  color: yellow;
+}
+  
